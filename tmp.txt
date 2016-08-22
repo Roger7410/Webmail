@@ -1,0 +1,94 @@
+/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/bin/java -Didea.launcher.port=7546 "-Didea.launcher.bin.path=/Applications/a_self/IntelliJ IDEA 13 CE.app/bin" -Dfile.encoding=UTF-8 -classpath "/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/lib/ant-javafx.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/lib/javafx-doclet.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/lib/javafx-mx.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/lib/jconsole.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/lib/sa-jdi.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/lib/tools.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/jre/lib/deploy.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/jre/lib/htmlconverter.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/jre/lib/javaws.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/jre/lib/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/jre/lib/plugin.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Users/JOKER/webmail/out/production/webmail:/usr/local/lib/sqlite-jdbc-3.8.6.jar:/usr/local/lib/ST-4.0.8.jar:/usr/local/lib/jetty-9.2.3/servlet-api-3.1.jar:/usr/local/lib/jetty-9.2.3/jetty-schemas-3.1.jar:/usr/local/lib/jetty-9.2.3/jetty-io-9.2.3.v20140905.jar:/usr/local/lib/jetty-9.2.3/jetty-jmx-9.2.3.v20140905.jar:/usr/local/lib/jetty-9.2.3/jetty-xml-9.2.3.v20140905.jar:/usr/local/lib/jetty-9.2.3/jetty-http-9.2.3.v20140905.jar:/usr/local/lib/jetty-9.2.3/jetty-jaas-9.2.3.v20140905.jar:/usr/local/lib/jetty-9.2.3/jetty-jndi-9.2.3.v20140905.jar:/usr/local/lib/jetty-9.2.3/jetty-plus-9.2.3.v20140905.jar:/usr/local/lib/jetty-9.2.3/jetty-util-9.2.3.v20140905.jar:/usr/local/lib/jetty-9.2.3/jetty-jaspi-9.2.3.v20140905.jar:/usr/local/lib/jetty-9.2.3/jetty-proxy-9.2.3.v20140905.jar:/usr/local/lib/jetty-9.2.3/jetty-client-9.2.3.v20140905.jar:/usr/local/lib/jetty-9.2.3/jetty-deploy-9.2.3.v20140905.jar:/usr/local/lib/jetty-9.2.3/jetty-server-9.2.3.v20140905.jar:/usr/local/lib/jetty-9.2.3/jetty-webapp-9.2.3.v20140905.jar:/usr/local/lib/jetty-9.2.3/jetty-rewrite-9.2.3.v20140905.jar:/usr/local/lib/jetty-9.2.3/jetty-servlet-9.2.3.v20140905.jar:/usr/local/lib/jetty-9.2.3/jetty-security-9.2.3.v20140905.jar:/usr/local/lib/jetty-9.2.3/jetty-servlets-9.2.3.v20140905.jar:/usr/local/lib/jetty-9.2.3/jetty-quickstart-9.2.3.v20140905.jar:/usr/local/lib/jetty-9.2.3/jetty-alpn-client-9.2.3.v20140905.jar:/usr/local/lib/jetty-9.2.3/jetty-alpn-server-9.2.3.v20140905.jar:/usr/local/lib/jetty-9.2.3/jetty-annotations-9.2.3.v20140905.jar:/usr/local/lib/jetty-9.2.3/jetty-continuation-9.2.3.v20140905.jar:/Applications/a_self/IntelliJ IDEA 13 CE.app/lib/idea_rt.jar" com.intellij.rt.execution.application.AppMain webmail.managers.emailManagers.POPDemo
+S:+OK Gpop ready for requests from 108.218.233.213 e5mb57568532oah
+S:+OK send PASS
+S:+OK Welcome.
+2
++OK message follows
+This is the 1th email content
+Delivered-To: test9217605@gmail.com
+Received: by 10.170.59.73 with SMTP id b70csp144450ykb;
+        Thu, 27 Nov 2014 19:34:36 -0800 (PST)
+X-Received: by 10.43.132.137 with SMTP id hu9mr39650227icc.27.1417145645174;
+        Thu, 27 Nov 2014 19:34:05 -0800 (PST)
+Return-Path: <test9217606@gmail.com>
+Received: from mail-ig0-x244.google.com (mail-ig0-x244.google.com. [2607:f8b0:4001:c05::244])
+        by mx.google.com with ESMTPS id k5si6417120igx.57.2014.11.27.19.34.05
+        for <test9217605@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Thu, 27 Nov 2014 19:34:05 -0800 (PST)
+Received-SPF: pass (google.com: domain of test9217606@gmail.com designates 2607:f8b0:4001:c05::244 as permitted sender) client-ip=2607:f8b0:4001:c05::244;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of test9217606@gmail.com designates 2607:f8b0:4001:c05::244 as permitted sender) smtp.mail=test9217606@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-ig0-x244.google.com with SMTP id h15so825973igd.7
+        for <test9217605@gmail.com>; Thu, 27 Nov 2014 19:34:05 -0800 (PST)
+Return-Path: <test9217606@gmail.com>
+Received-SPF: pass (google.com: domain of test9217606@gmail.com designates 10.43.119.131 as permitted sender) client-ip=10.43.119.131
+X-Received: from mr.google.com ([10.43.119.131])
+        by 10.43.119.131 with SMTP id fu3mr33802552icc.56.1417145629121 (num_hops = 1);
+        Thu, 27 Nov 2014 19:33:49 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=vdQ+++pIYiDCFnOsb+9IN55X9T/4DFFgnXC6X1OZR6s=;
+        b=j7nljFtEmPLVnrEkIpX/4ipED5hZlVWGr1oaSpyrszmDPS37TbcORzhaqcZVB1qvUF
+         jb0UvU6Fesumf2fTyWhfFxM/z6xTaH4dX5Km/RESjDka9mF27uKBzkelmBl6nEro4w9m
+         yfa6h71BqtZQUleA9X1z9bNL3l3bVyul4FKPoZpbPKAyknaIL1b1u/Xuw/TBavbDujsr
+         b6KG7woKgcmb+5gOVLSo/U3E+YgwCUrJw1nvQwV3JJpeFTOIEqy4eyF/9YLef4J6tEJ9
+         01DOK1pqSTs2mG28qUmNtnGQUgNqR3Hm56IVeIZB3elvMt8igzBO5v16F182Bopwzcc2
+         tesg==
+MIME-Version: 1.0
+X-Received: by 10.43.119.131 with SMTP id fu3mr33802552icc.56.1417145629115;
+ Thu, 27 Nov 2014 19:33:49 -0800 (PST)
+Received: by 10.107.136.160 with HTTP; Thu, 27 Nov 2014 19:33:49 -0800 (PST)
+Date: Thu, 27 Nov 2014 19:33:49 -0800
+Message-ID: <CALf5SWR=nDsvcbXQJevCNzeSXaz10HWmGSoo3Xprb-PoJVas4g@mail.gmail.com>
+Subject: test inbox 333
+From: test testt <test9217606@gmail.com>
+To: test9217605@gmail.com
+Content-Type: multipart/alternative; boundary=bcaec517c9d8d18a270508e2ed16
+
+--bcaec517c9d8d18a270508e2ed16
+Content-Type: text/plain; charset=UTF-8
+
+test inbox 333
+
+--bcaec517c9d8d18a270508e2ed16
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr">test inbox 333</div>
+
+--bcaec517c9d8d18a270508e2ed16--
+.
++OK message follows
+This is the 2th email content
+MIME-Version: 1.0
+Received: by 10.170.59.73 with HTTP; Thu, 27 Nov 2014 19:35:01 -0800 (PST)
+Date: Thu, 27 Nov 2014 19:35:01 -0800
+Delivered-To: test9217605@gmail.com
+Message-ID: <CAG-JigR3buqQmnM_kV9v6qD+TCjoVrs-m8ApCbkBtgYmsUqWrQ@mail.gmail.com>
+Subject: test sent 4444
+From: aa ee <test9217605@gmail.com>
+To: test9217606@gmail.com
+Content-Type: multipart/alternative; boundary=001a113bb9f22090c00508e2f296
+
+--001a113bb9f22090c00508e2f296
+Content-Type: text/plain; charset=UTF-8
+
+4444
+
+--001a113bb9f22090c00508e2f296
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr">4444</div>
+
+--001a113bb9f22090c00508e2f296--
+.
+S:+OK Farewell.
+
+Process finished with exit code 0
+
+
+
+
